@@ -1,0 +1,1 @@
+{"strategy":"Smart","board":{"numCols":6,"numRows":7,"boardMatrix":[]}}
